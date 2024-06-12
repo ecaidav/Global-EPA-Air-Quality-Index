@@ -1,4 +1,4 @@
-# global-epa-air-quality-index
+# Global-EPA-Air-Quality-Index
 
 Dynamic global map that shows average air quality for the last six days. 
 
